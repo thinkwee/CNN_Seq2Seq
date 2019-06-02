@@ -8,10 +8,10 @@
 -   [x] Multi-step Attention
 -   [x] Dilation
 -   [x] Output all logs to Visdom
--   [] Transform CNN to FC in Decoder when infer
--   [] Adaptive Softmax
--   [] Efficient memory fp-16
--   [] For other tasks
+-   [ ] Transform CNN to FC in Decoder when infer
+-   [ ] Adaptive Softmax
+-   [ ] Efficient memory fp-16
+-   [ ] For other tasks
 
 # 环境
 -   python 3.7
