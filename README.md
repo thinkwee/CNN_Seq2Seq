@@ -3,15 +3,15 @@
 -   卷积端到端的最简实现，可用于实现文档级生成式文摘（然而还是做翻译效果更好）
 
 # TODO
--   [x]CNN Encoder
--   [x]CNN Decoder
--   [x]Multi-step Attention
--   [x]Dilation
--   [x]Output all logs to Visdom
--   []Transform CNN to FC in Decoder when infer
--   []Adaptive Softmax
--   []Efficient memory fp-16
--   []For other tasks
+-   [x] CNN Encoder
+-   [x] CNN Decoder
+-   [x] Multi-step Attention
+-   [x] Dilation
+-   [x] Output all logs to Visdom
+-   [] Transform CNN to FC in Decoder when infer
+-   [] Adaptive Softmax
+-   [] Efficient memory fp-16
+-   [] For other tasks
 
 # 环境
 -   python 3.7
